@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*"
+  },
+  "author": "Matt Barraza-Carl <mbarrazacarl@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "mocha": "lastest"
+  }
+}
