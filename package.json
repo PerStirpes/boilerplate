@@ -9,6 +9,7 @@
   "author": "Matt Barraza-Carl <mbarrazacarl@gmail.com>",
   "license": "ISC",
   "devDependencies": {
+    "babel-preset-react-app": "lastest",    
     "eslint": "^4.12.1",
     "mocha": "lastest"
   }
