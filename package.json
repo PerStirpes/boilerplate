@@ -11,6 +11,7 @@
   "devDependencies": {
     "babel-preset-react-app": "lastest",    
     "eslint": "^4.12.1",
-    "mocha": "lastest"
+    "mocha": "lastest",
+"modern-normalize": "lastest"
   }
 }
