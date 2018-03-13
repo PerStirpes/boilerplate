@@ -1,4 +1,5 @@
 # boilerplate
 
+##### consistently evolving boilerplate
 
-a very basic starter project
+just something I use sometimes to start projects
